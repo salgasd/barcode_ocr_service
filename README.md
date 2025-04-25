@@ -1,6 +1,6 @@
 # Barcode OCR Service
 
-This is a pet project that demonstrates how to build and deploy a simple OCR pipeline
+This is a pet project using FastAPI that demonstrates how to build and deploy a simple OCR pipeline
 
 ## Running the Service Locally
 ```bash
