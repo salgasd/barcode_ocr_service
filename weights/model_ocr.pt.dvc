@@ -1,0 +1,5 @@
+outs:
+- md5: 0a0c463e79a6f017191626a371008cd8
+  size: 4138293
+  hash: md5
+  path: model_ocr.pt

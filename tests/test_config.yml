@@ -1,0 +1,15 @@
+services:
+  model_seg:
+    device: 'cpu'
+    model_path: './weights/model_seg.pt'
+    threshold: 0.5
+    image_size:
+      - 256
+      - 256
+  model_ocr:
+    device: 'cpu'
+    model_path: './weights/model_ocr.pt'
+    image_size:
+      - 416
+      - 96
+    vocab: '0123456789'

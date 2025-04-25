@@ -1,0 +1,8 @@
+dependency-injector==4.41.0
+fastapi==0.110.3
+numpy==1.26.4
+opencv-python==4.8.0.74
+python-multipart==0.0.9
+pyyaml
+torch==2.3.0+cpu
+uvicorn==0.29.0
